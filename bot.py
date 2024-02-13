@@ -12,7 +12,7 @@ import aiohttp
 import functools
 import concurrent.futures
 
-API_TOKEN = '6784683103:AAHhoE1IIeUXLVEDacz2ZkEmXKvbFYSNymE'
+API_TOKEN = ''
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
